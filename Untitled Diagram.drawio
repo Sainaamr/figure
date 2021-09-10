@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T17:53:04.836Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="rNV7uIgR6RWtXKcaJn-t" version="15.1.4" type="github"><diagram id="5-7OsCfyEfq5pxv2a63h" name="Page-1">7VhNb+IwEP01Oe4qHwTKEVK2PYBUgardPbqJia06ntQxJfDrd5w4hDT0a7V0L0gIZZ5nkpl5z+OAE0RZeaNIzhaQUOH4blI6wbXj+wPXw28D7GogHIxrIFU8qSGvBVZ8Ty3oWnTDE1p0HDWA0DzvgjFISWPdwYhSsO26rUF0n5qTlPaAVUxEH/3JE81q9Moftfgt5SlrnuwNbX0ZaZxtJQUjCWyPoGDmBJEC0PVVVkZUmN41fanjfryyekhMUak/EhDx5/nvPVV3Tz77pSbbMqD7b35Y3+aZiI2t+GaXSVLwTXYvNVWMxIzL1Akmq+j2fj6ztehd06BiyzNBJFrTNUi9sisu2hgpkjnZwcYkWGgSPzbWlIHie/QnApc8BHBZacu/P+x4rEykvaeiBfrcNVV7L6AFKTuOc1LoJhsQguQFf6jyM4EZUSmXU9AaMutUlVAnMUbTNocqTctX2+4dyMRNQCGjWu3QxQYEI8u/3QCNuW3V5IUWY0dKGg2tiK2A08OdW47xwtL8GcqHPcpBaQSqa8xk+LQxmpx2+D+gPQFga3TFn4JHGoEAhbiEWhFciBcQETyVaAq6NmGmtxy328TCGnJzs5zE+NR55XM9aJGlbZCBAGPXotpSjCcJlYZ10ESTh4MEc+BSVx0Mp/jB6iL3e+iEmHiEttfa+DHuSkcgsRbCK3op6mdLjYb+Shpv7Lm+YKxAGn7eE4g/OJdARj2B6F1+QiCHSXFRx5epI/zg+PDPNj7GPXUwqtRig7EUmZzMZ7fL2fJyTnzynAjD988J7wTRnnuuORC4PaYlngaSZPTEMGgEcBkF/24UjD99UJxSyNlGQeD1Xx5pETNBY3bqhSJzosCZDKQUPGbHQsEEg5JcNHN+zYT+/9aM39MMEdrMjZ5cBv5lmHyZMEZXZxMGmu2v3Grt6K+CYPYH</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-10T18:00:47.019Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="B5U14T8Fa1-EjUM_NGab" version="15.1.4" type="github">
+  <diagram id="5-7OsCfyEfq5pxv2a63h" name="Page-1">
+    <mxGraphModel dx="401" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CivLYzerPq2hXrAwx3ez-25" value="GymnasiumUnterhaching:SCHULE" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="370" y="70" width="150" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="CivLYzerPq2hXrAwx3ez-26" value="ort = &quot;Unterhaching&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" parent="CivLYzerPq2hXrAwx3ez-25" vertex="1">
+          <mxGeometry y="26" width="150" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="CivLYzerPq2hXrAwx3ez-27" value="typ = &quot;Gymnasium&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" parent="CivLYzerPq2hXrAwx3ez-25" vertex="1">
+          <mxGeometry y="50" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CivLYzerPq2hXrAwx3ez-29" value="herrMueller:LEHRER" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="550" y="70" width="110" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="CivLYzerPq2hXrAwx3ez-30" value="nachname = &quot;Mueller&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" parent="CivLYzerPq2hXrAwx3ez-29" vertex="1">
+          <mxGeometry y="26" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CivLYzerPq2hXrAwx3ez-31" value="Geschlecht = &quot;männlich&quot;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" parent="CivLYzerPq2hXrAwx3ez-29" vertex="1">
+          <mxGeometry y="52" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CivLYzerPq2hXrAwx3ez-32" value="alter = &quot;42&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" parent="CivLYzerPq2hXrAwx3ez-29" vertex="1">
+          <mxGeometry y="78" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Jor7bmQpNgT4sNviZq2k-1" value="7d:SCHULKLASSE" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="160" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="Jor7bmQpNgT4sNviZq2k-2" value="Klassenstufe = &quot;7&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" vertex="1" parent="Jor7bmQpNgT4sNviZq2k-1">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Jor7bmQpNgT4sNviZq2k-3" value="anzahlschüler = &quot;23&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" vertex="1" parent="Jor7bmQpNgT4sNviZq2k-1">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Jor7bmQpNgT4sNviZq2k-4" value="schule = &quot;Gymnasium Unterhaching&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" vertex="1" parent="Jor7bmQpNgT4sNviZq2k-1">
+          <mxGeometry y="78" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Jor7bmQpNgT4sNviZq2k-6" value="8a:SCHULKLASSE" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="520" y="180" width="160" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="Jor7bmQpNgT4sNviZq2k-7" value="Klassenstufe = &quot;8&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" vertex="1" parent="Jor7bmQpNgT4sNviZq2k-6">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Jor7bmQpNgT4sNviZq2k-8" value="anzahlschüler = &quot;20&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" vertex="1" parent="Jor7bmQpNgT4sNviZq2k-6">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Jor7bmQpNgT4sNviZq2k-9" value="schule = &quot;Gymnasium Unterhaching&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" vertex="1" parent="Jor7bmQpNgT4sNviZq2k-6">
+          <mxGeometry y="78" width="160" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
